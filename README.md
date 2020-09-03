@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, This is Philip 👋
 
 <!--
 **98philips/98philips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
